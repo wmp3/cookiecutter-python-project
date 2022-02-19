@@ -2,7 +2,7 @@
     "project_name": "New Python Project",
     "project_slug": "{{ cookiecutter.project_name.lower().replace('cookiecutter', '').strip().replace(' ', '_').replace('-', '_') }}",
     "project_short_description": "A short description of the project",
-    "python_version": "3.8",
+    "python_version": "3.9",
     "copy_hooks": "no",
     "_extensions": [
         "jinja2_time.TimeExtension"

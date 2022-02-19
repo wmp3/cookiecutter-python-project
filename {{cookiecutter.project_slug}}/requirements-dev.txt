@@ -1,0 +1,7 @@
+black
+coverage
+ipdb
+isort
+mypy
+pytest
+python-dotenv

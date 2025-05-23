@@ -1,1 +1,0 @@
-runtime-{{ cookiecutter.python_version }}
